@@ -1,6 +1,0 @@
-110660-116E;Iiro;Esimerkkilä;11.6.1960 0.00.00;mies;Iirontie 8 A 70;04875;Helsinki;4.1.2021 3.25.53
-130546-118E;Uuno;Turhapuro;8.5.1946 0.00.00;mies;Uunontie 8;00681;Keuruu;4.3.2021 3.26.53
-160581-128E;Kuuno;Kaakkuri;27.8.1947 0.00.00;mies;Kylätie 8;00684;Asikkala;15.2.2021 2.26.53
-130271-118P;Alli;Liukkonen;13.2.1971 0.00.00;nainen;Kaupunkitie 18;00284;Jyväskylä;4.4.2021 1.40.53
-041853-000U;Unto;Ollila;4.6.1953 0.00.00;mies;Hauskatie 17;07485;Kajaani;7.7.2021 0.26.32
-058475-000K;Oona;Kautonen;8.7.1996 0.00.00;nainen;Kotipolku 8;04758;Kankaanpää;7.7.2021 0.30.03
