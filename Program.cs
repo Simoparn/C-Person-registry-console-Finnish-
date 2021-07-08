@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Security;
 
-namespace Henkilörekisteri_taulukoilla
+namespace Henkilörekisteri_listoilla
 {
 
     /*
